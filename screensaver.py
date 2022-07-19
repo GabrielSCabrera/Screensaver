@@ -341,5 +341,5 @@ if __name__ == "__main__":
         bottom_right_positions,
         total_frames,
         fps,
-        skip_last_frame=True,
+        skip_last=True,
     )
